@@ -6,3 +6,4 @@ print(f"{name}'s High Score is {high_score}")
 
 print('Hello, world')
 
+print(2 + 2)
